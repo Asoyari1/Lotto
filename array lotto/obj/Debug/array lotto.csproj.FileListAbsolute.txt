@@ -1,0 +1,20 @@
+C:\Users\asoya\source\repos\array lotto\array lotto\bin\Debug\array lotto.exe.config
+C:\Users\asoya\source\repos\array lotto\array lotto\bin\Debug\array lotto.exe
+C:\Users\asoya\source\repos\array lotto\array lotto\bin\Debug\array lotto.pdb
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array lotto.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array_lotto.Form1.resources
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array_lotto.Properties.Resources.resources
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array lotto.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array lotto.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array lotto.exe
+C:\Users\asoya\source\repos\array lotto\array lotto\obj\Debug\array lotto.pdb
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\bin\Debug\array lotto.exe.config
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\bin\Debug\array lotto.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\bin\Debug\array lotto.pdb
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array lotto.csprojAssemblyReference.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array_lotto.Form1.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array_lotto.Properties.Resources.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array lotto.csproj.GenerateResource.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array lotto.csproj.CoreCompileInputs.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array lotto.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\array lotto\array lotto\obj\Debug\array lotto.pdb
